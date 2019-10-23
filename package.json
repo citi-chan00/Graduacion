@@ -1,0 +1,14 @@
+{
+  "name": "Graduacion",
+  "version": "1.0",
+  "description": "sitio web para la graduacion de la generacion",
+  "main": "index.js",
+  "author": "citiChan",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
