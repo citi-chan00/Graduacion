@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\citla\\Music\\ionic\\proyecto\\nuevaapp"
+		},
+		{
+			"path": "C:\\Users\\citla\\Desktop\\metodos"
+		},
+		{
+			"path": "C:\\Users\\citla\\Desktop\\navega_feliz"
+		},
+		{
+			"path": "C:\\Users\\citla\\Desktop\\javascript"
+		},
+		{
+			"path": "C:\\Users\\citla\\Desktop\\pagina_final"
+		},
+		{
+			"path": "C:\\Users\\citla\\Desktop\\Frameworks"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "navega_feliz"
+	}
+}

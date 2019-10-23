@@ -1,0 +1,5 @@
+git init 
+git remote add elnombre que le quierasponer url
+git pull elnombrequelepusiste master
+
+yarn
